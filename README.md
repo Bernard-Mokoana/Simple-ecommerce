@@ -24,7 +24,7 @@ This is a simple shopping cart web application built with HTML, CSS, and JavaScr
 ### **Setup Instructions**
 1. Clone this repository or download the project files.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bernard-Mokoana/Simple-ecommerce.git
    ```
 2. Open the project directory and launch `index.html` in a web browser.
 
